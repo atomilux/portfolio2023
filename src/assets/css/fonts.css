@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "avenir";
+  /* src: url('~@/assets/fonts/AveniRom.otf') format('font-opentype'); */
+	src: url('~@/assets/fonts/AvenirLTStd-Roman.otf') format('font-opentype');
+}
+
+@font-face {
+  font-family: "avenirLight";
+  /* src: url('~@/assets/fonts/AveniRom.otf') format('font-opentype'); */
+	src: url('~@/assets/fonts/AvenirLight.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: "abuget";
+  /* src: url('~@/assets/fonts/AveniLig.otf') format('font-opentype'); */
+	src: url('~@/assets/fonts/Abuget.ttf') format("ttf"); 
+}

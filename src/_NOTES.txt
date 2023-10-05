@@ -1,0 +1,22 @@
+fire this in command line before grisome develop
+export NODE_OPTIONS=--openssl-legacy-provider
+
+FAQs 
+
+Are you an art guy who thinks he knows how to code? 
+
+How can I consider you as a serious candidate? 
+
+How do you compare against a guy who has only done the one thing i need? 
+
+Are you a genius? 
+
+LOL, no, more than anything i'm persistent and stubborn when it comes to software engineering. I also tend to think outside the proverbial box so the array of solutions I consider is broader. 
+
+Why not just pick a lane? 
+
+The startup world tends to benefit from multi-talented people. It also has a tendency to require learning and utilizing new competencies.
+
+Do you really know all these languages? 
+
+Context switching is like finding your place in a book but doesn't take that long. Nearly every programming language i've built solutions with has common concepts like: operators, variables, functions, classes, scope, encapsulation, interpolation, casting, etc. 
